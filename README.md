@@ -1,12 +1,12 @@
-# my-floss
+# 🪥 my-floss
 
 The complete list of [FLOSS](https://wikipedia.org/wiki/Free_and_open-source_software) apps I use every day.
 
-## Desktop
+## 🖥️ Desktop
 
 *Coming soon...*
 
-## Mobile
+## 📱 Mobile
 
 All of the apps listed here are open-source. Most of them are available on [F-Droid](https://f-droid.org/).
 There are some exceptions, like X and Y for which you can only download the APK from the original website.
