@@ -12,6 +12,8 @@ All of the apps listed here are open-source. Most of them are available on [F-Dr
 There are some exceptions, like X and Y for which you can only download the APK from the original website.
 I have learnt about many of these apps from the [The ultimate F-Droid setup](https://alternativeto.net/lists/28655/the-ultimate-f-droid-setup/) blogpost which offers a wide collection of the best FLOSS apps out there. The page is really well put together and each app is in its own category.
 
+>⚠️ Many links are missing. I will add them when I have some time.
+
 - [Aegis Authenticator](https://github.com/beemdevelopment/Aegis): 2FA app with password/biometric unlock.
 - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore): Alternative frontend to Google Play with minimal features, does not require a Google account, anonymous.
 - [Bitwarden](https://github.com/bitwarden): Cloud-based password manager. Self-hosting is supported.
