@@ -4,7 +4,27 @@ The complete list of [FLOSS](https://wikipedia.org/wiki/Free_and_open-source_sof
 
 ## 🖥️ Desktop
 
-*Coming soon...*
+- FreeTube
+- Gimp
+- OBS Studio
+- OpenShot Video editor
+- Flameshot / ShareX
+- Joplin
+- *WebCord*
+- Firefox / Brave
+- Signal
+
+## 🌐 Browser extensions
+
+- FeedBro
+- LanguageTools
+- LibRedirect
+- SimpleLogin
+- uBlock origin
+- ProtonVPN
+- KeePassXC-Browser
+- Decentraleyes
+- Cookie AutoDelete
 
 ## 📱 Mobile
 
