@@ -1,5 +1,8 @@
 # 🖥️ Desktop
 
+This is the list of apps I use for my desktop setup.
+Many of them were installed via `pacman` or the AUR on Arch Linux.
+
 ## 🌐 Browsers
 
 - [Brave](https://brave.com)
