@@ -1,5 +1,7 @@
 # 🪥 my-floss
 
+![my-floss-logo](https://github.com/user-attachments/assets/4318673b-0d0e-4aa8-adab-3a863e29896c)
+
 <table>
   <tr>
     <td>🚨</td>
