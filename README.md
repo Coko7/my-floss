@@ -7,6 +7,7 @@
     <td>🚨</td>
     <td>I try to limit myself to only use <a href="https://wikipedia.org/wiki/Free_and_open-source_software">FLOSS</a> software. If you are interested, I recommend you to check the following websites:
       <ul>
+        <li><a href="https://alternativeto.net/">AlternativeTo</a></li>
         <li><a href="https://www.privacytools.io/">Privacy Tools</a></li>
         <li><a href="https://www.privacyguides.org/">Privacy Guides</a></li>
         <li><a href="https://thenewoil.org/">The New Oil</a></li>
