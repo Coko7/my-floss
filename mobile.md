@@ -81,10 +81,13 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 - [Catima - Loyalty Card Wallet](https://github.com/CatimaLoyalty/Android): Small app to store loyalty cards and various coupons and tickets.
 - [Converter NOW](https://github.com/ferraridamiano/ConverterNOW): Simple unit converter app with a nice UI.
 - [Data Monitor](https://github.com/itsdrnoob/DataMonitor): Track your daily data usage.
+- [Droid-ify](https://github.com/Droid-ify/client): Material design F-Droid client.
 - [Feeder](https://github.com/spacecowboy/Feeder): Simple RSS reader for Android.
 - [FOSDEM Companion](https://github.com/cbeyls/fosdem-companion-android): Schedule browser for FOSDEM events.
 - [FUTO Keyboard](https://gitlab.futo.org/keyboard/latinime): A good open-source keyboard that doesn't spy on users.
 - [LibreSpeed](https://github.com/Kunzisoft/KeePassDX): Check your internet speed. Alternative to SpeedTest.
+- [Linux Command Libray](https://github.com/SimonSchubert/LinuxCommandLibrary): An offline Linux reference app with basic tips and formatted man pages.
 - [Neo Store](https://github.com/NeoApplications/Neo-Store): A modern feature-rich F-Droid client. For each app, it gives a score based on the number of permissions it requires as well as the number of trackers that are needed to make it work.
 - [RHVoice](https://github.com/RHVoice/RHVoice): TTS engine with extended languages support.
+- [SherpaTTS](https://github.com/woheller69/ttsengine): Android Text-to-Speech engine based on Next-gen Kaldi.
 - [Termux](https://github.com/termux/termux-app): Terminal emulator app for Android.
