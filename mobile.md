@@ -12,7 +12,7 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 
 ## 🌐 Browsers
 
-- [Mull](https://gitlab.com/divested-mobile/mull-fenix): Privacy oriented web browser. (A fork of Fennec, which is a fork of Firefox since Firefox Android version includes proprietary blobs).
+- [IronFox](https://github.com/ironfox-oss/IronFox): Privacy oriented web browser. Fork of [Mull browser](https://gitlab.com/divested-mobile/mull-fenix).
 - [Vanadium](https://github.com/GrapheneOS/Vanadium): Stock browser for GrapheneOS.
 
 ## 📂 Files & Sync
@@ -25,7 +25,9 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 
 ## 🎮 Games
 
+- [Balatro](https://store.steampowered.com/app/2379780/Balatro) via [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker): A very addictive rogue-like card game made by one truly passionate individual.
 - [Chip Defense](https://github.com/ochadenas/cpudefense): Tower defense game centered around electric circuits and logical chips.
+- [IED](https://codeberg.org/Krixec/IED-FDroid): Very cool 3D Minesweeper game.
 - [Twisty Timer](https://github.com/aricneto/TwistyTimer): A puzzle timer that I use to record my times on 3x3 and other cubes.
 
 ## 🥗 Health & Fitness
@@ -87,6 +89,7 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 - [Converter NOW](https://github.com/ferraridamiano/ConverterNOW): Simple unit converter app with a nice UI.
 - [Data Monitor](https://github.com/itsdrnoob/DataMonitor): Track your daily data usage.
 - [Feeder](https://github.com/spacecowboy/Feeder): Simple RSS reader for Android.
+- [Flipper](https://github.com/flipperdevices/Flipper-Android-App): To manage the [Flipper Zero](https://flipperzero.one) device.
 - [FOSDEM Companion](https://github.com/cbeyls/fosdem-companion-android): Schedule browser for FOSDEM events.
 - [FUTO Keyboard](https://gitlab.futo.org/keyboard/latinime): A good open-source keyboard that doesn't spy on users.
 - [LibreSpeed](https://github.com/Kunzisoft/KeePassDX): Check your internet speed. Alternative to SpeedTest.
