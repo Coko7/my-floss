@@ -7,6 +7,7 @@ Many of them were installed via `pacman` or the AUR on Arch Linux.
 
 - [Brave](https://brave.com)
 - [Firefox](https://www.mozilla.org/firefox)
+- [LibreWolf](https://librewolf.net)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
 
 ## ✨ Terminals
@@ -71,3 +72,4 @@ Many of them were installed via `pacman` or the AUR on Arch Linux.
 - API dev & debug: [Insomnia](https://github.com/Kong/insomnia)
 - PDF viewer: [zathura](https://github.com/pwmt/zathura)
 - Torrent: [qBittorrent](https://www.qbittorrent.org)
+- Keyboard customization: [VIAL](https://get.vial.today)
