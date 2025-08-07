@@ -14,6 +14,7 @@ I have split the full list into per-platform sub lists:
 If privacy is important to you and you are looking for apps and services that do not steal your personal data, then have a look at the following sites:
 - [AlternativeTo](https://alternativeto.net/)
     - [The ultimate F-Droid setup (300+ Apps)](https://alternativeto.net/lists/28655/the-ultimate-f-droid-setup/)
+- [Android FOSS](https://offa.github.io/android-foss/)
 - [Awesome Privacy](https://pluja.github.io/awesome-privacy/)
 - [Awesome-Selfhosted](https://awesome-selfhosted.net/)
 - [Digital Defense](https://digital-defense.io/)
