@@ -11,13 +11,22 @@ I have split the full list into per-platform sub lists:
 
 ## 📚 Resources
 
-If privacy is important to you and you are looking for apps and services that do not steal your personal data, then have a look at the following sites:
+If privacy is important to you and you are looking for apps and services that do not steal your personal data.
+
+### Awesome Git lists
+
+| Repository                                                                                        | Stars                                                                                                         |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | ![GitHub Repo stars](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=flat)    |
+| [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy)                             | ![GitHub Repo stars](https://img.shields.io/github/stars/lissy93/awesome-privacy?style=flat)                  |
+| [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist)     | ![GitHub Repo stars](https://img.shields.io/github/stars/lissy93/personal-security-checklist?style=flat)      |
+| [offa/android-foss](https://github.com/offa/android-foss)                                         | ![GitHub Repo stars](https://img.shields.io/github/stars/offa/android-foss?style=flat)                        |
+| [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)                                 | ![GitHub Repo stars](https://img.shields.io/github/stars/pluja/awesome-privacy?style=flat)                    |
+
+### Sites
+
 - [AlternativeTo](https://alternativeto.net/)
     - [The ultimate F-Droid setup (300+ Apps)](https://alternativeto.net/lists/28655/the-ultimate-f-droid-setup/)
-- [Android FOSS](https://offa.github.io/android-foss/)
-- [Awesome Privacy](https://pluja.github.io/awesome-privacy/)
-- [Awesome-Selfhosted](https://awesome-selfhosted.net/)
-- [Digital Defense](https://digital-defense.io/)
 - [Privacy Guides](https://www.privacyguides.org/)
 - [Privacy Tools](https://www.privacytools.io/)
 - [The New Oil](https://thenewoil.org/)
