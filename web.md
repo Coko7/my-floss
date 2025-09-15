@@ -1,4 +1,24 @@
-# 🌐 Browser extensions
+# 🌐 Web
+
+## Web services
+
+### Fileshare
+
+- [Gokapi](https://github.com/Forceu/Gokapi)
+- [Pairdrop](https://pairdrop.net)
+- [Send](https://send.vis.ee)
+
+### Pastebins
+
+- [Password Pusher](https://pwpush.com)
+- [PrivateBin](https://privatebin.info)
+
+### Others
+
+- [Spliit](https://spliit.app): Share expenses with your friends and family
+- [Yamtrack](https://github.com/FuzzyGrim/Yamtrack): Self hosted media tracker
+
+## Browser extensions
 
 - [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete): Fine-control over cookies and other data
 - [Dark Reader](https://darkreader.org): Use Dark Mode on any website
