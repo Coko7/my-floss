@@ -9,6 +9,7 @@ Many of them were installed via `pacman` or the AUR on Arch Linux.
 - [Firefox](https://www.mozilla.org/firefox)
 - [LibreWolf](https://librewolf.net)
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser)
+- [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 
 ## ✨ Terminals
 

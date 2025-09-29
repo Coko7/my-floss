@@ -84,6 +84,7 @@ I have discovered many of these apps on [The ultimate F-Droid setup](https://alt
 
 ## 🧰 Utils
 
+- [Antenna Pod](https://github.com/AntennaPod/AntennaPod): Easy-to-use, flexible and open-source podcast manager for Android.
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather): A fork of Geometric Weather.
 - [Catima - Loyalty Card Wallet](https://github.com/CatimaLoyalty/Android): Small app to store loyalty cards and various coupons and tickets.
 - [Converter NOW](https://github.com/ferraridamiano/ConverterNOW): Simple unit converter app with a nice UI.
